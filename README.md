@@ -1,3 +1,6 @@
+Please note: this is a mirror of the original SHAIO from GetRaid which I use so much it's not even funny, but I learned very recently (march 19th 2023) that it was archived in Jan. To protect against this project being gone forever I'm forking it. I might do something with it, I might not, but at least it's preserved for at least my own usage.
+
+
 <img src="https://image.flaticon.com/icons/svg/921/921691.svg?sanitize=true" width="200px">
 <small>Icon made by Freepik from www.flaticon.com</small>
 
